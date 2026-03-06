@@ -1,2 +1,3 @@
 # yolotool
 一个可以在linux和windows上训练模型的工具，你不需要拥有任何编程环境，点击即用
+目前该项目并没有完成，可以前往yolotool.top下载半成品
